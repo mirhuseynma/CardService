@@ -9,6 +9,12 @@ namespace CardServicesU.Practice.CardType
 {
     public sealed class CreditCard : Card
     {
+
+        public CreditCard(int id, double balance, string cardNumber, double cardLimit) : base(id, balance, cardNumber)
+        {
+            CardLimit = cardLimit;
+        }
+
         private double _cardLimit;
         public double CardLimit 
         {
@@ -25,6 +31,11 @@ namespace CardServicesU.Practice.CardType
             double residueBalance = cash - Balance;
             if(Balance - cash < 0) Console.WriteLine($"Kartinizda yeterli mebleg olmadigindan qaliq mebleg kredit kartinizdan chixildi. Debit kart balansiniz: 0.00, Kredit kart balansiniz: {CardLimit - residueBalance}");
             else Console.WriteLine($"Mebleg debit kart balansinizdan chixildi. Balansiniz: {Balance - cash}");
+        }
+
+        public override string ToString()
+        {
+            return $"Balans: {Balance}, Kart nomresi: {CardNumber}, Kredit kart limitiniz: {CardLimit}";
         }
     }
 }

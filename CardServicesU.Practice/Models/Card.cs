@@ -18,7 +18,8 @@ namespace CardServicesU.Practice.Models
         {
             get { return _cardNumber; }
             set 
-            { bool checkLetter = false;
+            { 
+                bool checkLetter = false;
                 if (value.Length > 16 && value.Length < 16) Console.WriteLine("Kart nomresi 16 reqem olmalidir!!!");
                 else _cardNumber = value;
                 for(int i = 0; i<value.Length; i++)
@@ -28,11 +29,19 @@ namespace CardServicesU.Practice.Models
                         Console.WriteLine("Kart nomresi yalniz reqemden ibaret olmalidir!!!");
                         return;
                     }
+                    else _cardNumber = value;
                 }
+                _cardNumber = value.Replace(" ", "");
+
             }
         }
 
-        
+        protected Card(int id, double balance, string cardNumber)
+        {
+            Id = id;
+            Balance = balance;
+            CardNumber = cardNumber;
+        }
         public abstract void Withdraw(double cash);
         
     }

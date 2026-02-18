@@ -1,0 +1,15 @@
+C:\Users\abdul\OneDrive\Desktop\CardService\CardServicesU.Practice\bin\Debug\net8.0\CardServicesU.Practice.exe
+C:\Users\abdul\OneDrive\Desktop\CardService\CardServicesU.Practice\bin\Debug\net8.0\CardServicesU.Practice.deps.json
+C:\Users\abdul\OneDrive\Desktop\CardService\CardServicesU.Practice\bin\Debug\net8.0\CardServicesU.Practice.runtimeconfig.json
+C:\Users\abdul\OneDrive\Desktop\CardService\CardServicesU.Practice\bin\Debug\net8.0\CardServicesU.Practice.dll
+C:\Users\abdul\OneDrive\Desktop\CardService\CardServicesU.Practice\bin\Debug\net8.0\CardServicesU.Practice.pdb
+C:\Users\abdul\OneDrive\Desktop\CardService\CardServicesU.Practice\obj\Debug\net8.0\CardServicesU.Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\OneDrive\Desktop\CardService\CardServicesU.Practice\obj\Debug\net8.0\CardServicesU.Practice.AssemblyInfoInputs.cache
+C:\Users\abdul\OneDrive\Desktop\CardService\CardServicesU.Practice\obj\Debug\net8.0\CardServicesU.Practice.AssemblyInfo.cs
+C:\Users\abdul\OneDrive\Desktop\CardService\CardServicesU.Practice\obj\Debug\net8.0\CardServicesU.Practice.csproj.CoreCompileInputs.cache
+C:\Users\abdul\OneDrive\Desktop\CardService\CardServicesU.Practice\obj\Debug\net8.0\CardServicesU.Practice.sourcelink.json
+C:\Users\abdul\OneDrive\Desktop\CardService\CardServicesU.Practice\obj\Debug\net8.0\CardServicesU.Practice.dll
+C:\Users\abdul\OneDrive\Desktop\CardService\CardServicesU.Practice\obj\Debug\net8.0\refint\CardServicesU.Practice.dll
+C:\Users\abdul\OneDrive\Desktop\CardService\CardServicesU.Practice\obj\Debug\net8.0\CardServicesU.Practice.pdb
+C:\Users\abdul\OneDrive\Desktop\CardService\CardServicesU.Practice\obj\Debug\net8.0\CardServicesU.Practice.genruntimeconfig.cache
+C:\Users\abdul\OneDrive\Desktop\CardService\CardServicesU.Practice\obj\Debug\net8.0\ref\CardServicesU.Practice.dll

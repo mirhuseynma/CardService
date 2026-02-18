@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abdul\\OneDrive\\Desktop\\CardService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31974369-5C6C-47E2-AD3D-70BBA844687A}|CardServicesU.Practice\\CardServicesU.Practice.csproj|c:\\users\\abdul\\onedrive\\desktop\\cardservice\\cardservicesu.practice\\extension methods\\extension method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31974369-5C6C-47E2-AD3D-70BBA844687A}|CardServicesU.Practice\\CardServicesU.Practice.csproj|solutionrelative:cardservicesu.practice\\extension methods\\extension method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31974369-5C6C-47E2-AD3D-70BBA844687A}|CardServicesU.Practice\\CardServicesU.Practice.csproj|c:\\users\\abdul\\onedrive\\desktop\\cardservice\\cardservicesu.practice\\cardservicesu.practice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{31974369-5C6C-47E2-AD3D-70BBA844687A}|CardServicesU.Practice\\CardServicesU.Practice.csproj|solutionrelative:cardservicesu.practice\\cardservicesu.practice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31974369-5C6C-47E2-AD3D-70BBA844687A}|CardServicesU.Practice\\CardServicesU.Practice.csproj|c:\\users\\abdul\\onedrive\\desktop\\cardservice\\cardservicesu.practice\\cardtype\\creditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31974369-5C6C-47E2-AD3D-70BBA844687A}|CardServicesU.Practice\\CardServicesU.Practice.csproj|solutionrelative:cardservicesu.practice\\cardtype\\creditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31974369-5C6C-47E2-AD3D-70BBA844687A}|CardServicesU.Practice\\CardServicesU.Practice.csproj|c:\\users\\abdul\\onedrive\\desktop\\cardservice\\cardservicesu.practice\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31974369-5C6C-47E2-AD3D-70BBA844687A}|CardServicesU.Practice\\CardServicesU.Practice.csproj|solutionrelative:cardservicesu.practice\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31974369-5C6C-47E2-AD3D-70BBA844687A}|CardServicesU.Practice\\CardServicesU.Practice.csproj|c:\\users\\abdul\\onedrive\\desktop\\cardservice\\cardservicesu.practice\\icardservices\\cardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31974369-5C6C-47E2-AD3D-70BBA844687A}|CardServicesU.Practice\\CardServicesU.Practice.csproj|solutionrelative:cardservicesu.practice\\icardservices\\cardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31974369-5C6C-47E2-AD3D-70BBA844687A}|CardServicesU.Practice\\CardServicesU.Practice.csproj|c:\\users\\abdul\\onedrive\\desktop\\cardservice\\cardservicesu.practice\\icardservices\\icardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31974369-5C6C-47E2-AD3D-70BBA844687A}|CardServicesU.Practice\\CardServicesU.Practice.csproj|solutionrelative:cardservicesu.practice\\icardservices\\icardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31974369-5C6C-47E2-AD3D-70BBA844687A}|CardServicesU.Practice\\CardServicesU.Practice.csproj|c:\\users\\abdul\\onedrive\\desktop\\cardservice\\cardservicesu.practice\\cardtype\\debitcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31974369-5C6C-47E2-AD3D-70BBA844687A}|CardServicesU.Practice\\CardServicesU.Practice.csproj|solutionrelative:cardservicesu.practice\\cardtype\\debitcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31974369-5C6C-47E2-AD3D-70BBA844687A}|CardServicesU.Practice\\CardServicesU.Practice.csproj|c:\\users\\abdul\\onedrive\\desktop\\cardservice\\cardservicesu.practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31974369-5C6C-47E2-AD3D-70BBA844687A}|CardServicesU.Practice\\CardServicesU.Practice.csproj|solutionrelative:cardservicesu.practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Extension Method.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Desktop\\CardService\\CardServicesU.Practice\\Extension Methods\\Extension Method.cs",
+              "RelativeDocumentMoniker": "CardServicesU.Practice\\Extension Methods\\Extension Method.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Desktop\\CardService\\CardServicesU.Practice\\Extension Methods\\Extension Method.cs",
+              "RelativeToolTip": "CardServicesU.Practice\\Extension Methods\\Extension Method.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwCsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T23:16:13.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CardServicesU.Practice",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Desktop\\CardService\\CardServicesU.Practice\\CardServicesU.Practice.csproj",
+              "RelativeDocumentMoniker": "CardServicesU.Practice\\CardServicesU.Practice.csproj",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Desktop\\CardService\\CardServicesU.Practice\\CardServicesU.Practice.csproj",
+              "RelativeToolTip": "CardServicesU.Practice\\CardServicesU.Practice.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-17T23:15:20.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreditCard.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Desktop\\CardService\\CardServicesU.Practice\\CardType\\CreditCard.cs",
+              "RelativeDocumentMoniker": "CardServicesU.Practice\\CardType\\CreditCard.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Desktop\\CardService\\CardServicesU.Practice\\CardType\\CreditCard.cs",
+              "RelativeToolTip": "CardServicesU.Practice\\CardType\\CreditCard.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAADwvyIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T20:53:07.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Desktop\\CardService\\CardServicesU.Practice\\Models\\Card.cs",
+              "RelativeDocumentMoniker": "CardServicesU.Practice\\Models\\Card.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Desktop\\CardService\\CardServicesU.Practice\\Models\\Card.cs",
+              "RelativeToolTip": "CardServicesU.Practice\\Models\\Card.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowB8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T20:53:07.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CardService.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Desktop\\CardService\\CardServicesU.Practice\\ICardServices\\CardService.cs",
+              "RelativeDocumentMoniker": "CardServicesU.Practice\\ICardServices\\CardService.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Desktop\\CardService\\CardServicesU.Practice\\ICardServices\\CardService.cs",
+              "RelativeToolTip": "CardServicesU.Practice\\ICardServices\\CardService.cs",
+              "ViewState": "AgIAACAAAAAAzMzMzMwEwCYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T20:55:09.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICardService.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Desktop\\CardService\\CardServicesU.Practice\\ICardServices\\ICardService.cs",
+              "RelativeDocumentMoniker": "CardServicesU.Practice\\ICardServices\\ICardService.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Desktop\\CardService\\CardServicesU.Practice\\ICardServices\\ICardService.cs",
+              "RelativeToolTip": "CardServicesU.Practice\\ICardServices\\ICardService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T20:54:51.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DebitCard.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Desktop\\CardService\\CardServicesU.Practice\\CardType\\DebitCard.cs",
+              "RelativeDocumentMoniker": "CardServicesU.Practice\\CardType\\DebitCard.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Desktop\\CardService\\CardServicesU.Practice\\CardType\\DebitCard.cs",
+              "RelativeToolTip": "CardServicesU.Practice\\CardType\\DebitCard.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T20:53:07.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Desktop\\CardService\\CardServicesU.Practice\\Program.cs",
+              "RelativeDocumentMoniker": "CardServicesU.Practice\\Program.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Desktop\\CardService\\CardServicesU.Practice\\Program.cs",
+              "RelativeToolTip": "CardServicesU.Practice\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwB0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T20:53:07.301Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

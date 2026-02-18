@@ -1,4 +1,6 @@
-﻿using CardServicesU.Practice.Models;
+﻿using CardServicesU.Practice.Enum;
+using CardServicesU.Practice.Extension_Methods;
+using CardServicesU.Practice.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,7 +12,7 @@ namespace CardServicesU.Practice.CardType
     public sealed class CreditCard : Card
     {
 
-        public CreditCard(int id, double balance, string cardNumber, double cardLimit) : base(id, balance, cardNumber)
+        public CreditCard(int id, double balance, string cardNumber, Banks bank, double cardLimit) : base(id, balance, cardNumber, bank)
         {
             CardLimit = cardLimit;
         }
@@ -35,7 +37,7 @@ namespace CardServicesU.Practice.CardType
 
         public override string ToString()
         {
-            return $"Balans: {Balance}, Kart nomresi: {CardNumber}, Kredit kart limitiniz: {CardLimit}";
+            return $"Balans: {Balance}, Kart nomresi: {CardNumber.MaskCardNumber()}, istifade etdiyiniz bank: {Bank}, Kredit kart limitiniz: {CardLimit}";
         }
     }
 }

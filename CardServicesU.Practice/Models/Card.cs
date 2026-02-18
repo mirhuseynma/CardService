@@ -36,11 +36,12 @@ namespace CardServicesU.Practice.Models
             }
         }
 
-        protected Card(int id, double balance, string cardNumber)
+        public Card(int id, double balance, string cardNumber, Banks bank)
         {
             Id = id;
             Balance = balance;
             CardNumber = cardNumber;
+            Bank = bank;
         }
         public abstract void Withdraw(double cash);
         
